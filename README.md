@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**theshiv12/theshiv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shivam Vishwakarma 👋
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer with 2 years of experience specializing in Node.js and React. I have a strong background in front and backend development, focusing on creating efficient and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+### Languages & Frameworks:
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Context API, Canvas 
+- **Backend:** Node.js, Express.js, TypeScript, Keystone JS
+
+### Databases:
+- **SQL:** MySQL
+- **NoSQL:** MongoDB
+- **In-Memory:** Redis 
+
+### DevOps & Tools:
+- **Containerization:** Docker
+- **Cloud Services:** AWS (S3, Lambda, DynamoDB, API Gateway)
+
+### Additional Skills:
+- AJAX, jQuery, ORM (Prisma), Jira, 
+
+🌟 Experience
+### Current Position:
+**Full Stack Developer at ScienceFox Technology**
+
+### Responsibilities:
+- Developing and maintaining web applications using React and Node.js.
+- Designing and managing database schemas in MySQL and MongoDB.
+- Deploying and managing applications on AWS.
+
+📫 Contact
+- **Phone:** 7470739948
+- **LinkedIn:** [linkedin.com/in/shivam-vishwakarma-b67947212](#)
+- **Email:** [shivamsfor@gmail.com](#)
+
+Feel free to reach out to me for any collaboration or project discussion!
