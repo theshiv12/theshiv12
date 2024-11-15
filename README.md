@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello Everyone 👋
 
-Hi, I'm Shivam Vishwakarma 👋
+I'm Shivam Vishwakarma 👋
 
-I'm a passionate Full Stack Developer with 2 years of experience specializing in Node.js and React. I have a strong background in front and backend development, focusing on creating efficient and scalable web applications.
+I'm a passionate Full Stack Developer with 2+ years of experience specializing in Node.js and React. I have a strong background in front and backend development, focusing on creating efficient and scalable web applications.
 
 🚀 Skills
 ### Languages & Frameworks:
